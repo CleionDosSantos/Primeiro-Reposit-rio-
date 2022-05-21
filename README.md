@@ -1,2 +1,2 @@
-# Meu Primeiro-Repositrio
+# Meu Primeiro-Repositório 
 Turma Transforma Tec
